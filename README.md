@@ -26,7 +26,7 @@ Este é um sistema simples de cadastro de clientes em Python que permite adicion
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/yourusername/sistema-de-cadastro-de-clientes.git
+    git clone https://github.com/PenhaJV/sistema-de-cadastro-de-clientes.git
     ```
 
 2. **Navegue até o diretório do projeto:**
